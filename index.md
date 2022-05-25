@@ -1,37 +1,350 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<title>Delpha Education - Learn, Live & Grow</title>
 
-You can use the [editor on GitHub](https://github.com/knayak35/delphaeducation.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<br><br>
+<img src="logo.png" width="210" height="50" style="margin-left: 30px;">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div class="link">
+  <a href="index.html">HOME </a>
+  <a href="team.html" style="margin-left: 10px;">VOLUNTEER</a>
+  <a href="subjects.html" style="margin-left: 10px;">RESOURCES</a>
+  <a href="index.html" style="margin-left: 10px;">CONTACT</a>
+</div>
+<br><br><br>
+<h1 style="margin-left: 90px; font-size: 90px; margin-top: 100px;"><strong>Delpha <br> Education</strong></h1>
 
-### Markdown
+<br><br>
+<p style="margin-left: 90px; font-size: 30px;"><i>YOUR JOURNEY STARTS <span>TODAY</span></i></p>
+<br>
+<a href="team.html"><button class="button-62" role="button" style="margin-left: 90px; margin-top: 20px;"><strong>About Us</strong></button></a>
+ <img src="people.png" style="margin-left: 900px; margin-top: -480px" width="600" height="600">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<div class="welcome"><br><br><br><br><br><br><br><br><br>
+  <h1 style="color: white; font-size: 60px; margin-left: 210px;">Welcome To</h1>
+  <h1 style="color: #9340ff; font-size: 60px; margin-left: 130px;">Delpha Education</h1>
+<br><br>
+  <p style="font-size: 20px; color: white; margin-left: 70px; line-height: 40px;">Delpha Education is an educational platform to assist students in <br> their academics and ace their examinations through the power of <br> knowledge and curiosity. Our collection of high-quality resources <br>including notes, practice questions, as well as videos aid students in <br> being able to maximize and reach their true potential. </p>
+<br><br><br><br><br>
+  <div class="misvis" style="margin-left: 550px; margin-top: -500px">
+      <h1 style="color: #9340ff; font-size: 60px; margin-left: 130px;"> <span class="header" style="margin-left: 500px;">MISSION</span> </h1>
+    <br><p style="font-size: 20px; color: white;margin-left: 490px;">To inspire and empower students around the <br>     world through the power of curiosity.</p>
+    <br><br>
+    <h1 style="color: #9340ff; font-size: 60px; margin-left: 130px;"> <span class="header" style="margin-left: 500px;">VISION</span> </h1><br>
+    <p style="font-size: 20px; color: white;margin-left: 490px;">To provide quality education and impact <br> millions of learners globally.</p>
+  </div>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-# Header 1
-## Header 2
-### Header 3
+    <div class="vl" style="margin-top: -1000px"></div>
+  <br><br><br><br><br><br><br><br><br><br>
 
-- Bulleted
-- List
+  <div class="dark" style="background-color: #101728">
+    <h2 style="color: #9340ff; margin-left: 200px; font-size: 60px">Learning Notes</h2>
+    <br><br>
+    <p style="font-size: 20px; color: white;margin-left: 200px; line-height: 40px;">Learn and revise different concepts from all topics and units <br>through our specially designed learning notes, which are divided <br> per class and written by top students.</p>
+    <img src="learning-notes.png" width="370" height="360" style="margin-left: 1000px; margin-top: -250px">
 
-1. Numbered
-2. List
+    <br><br><br><br><br><br><br><br><br><br><br>
 
-**Bold** and _Italic_ and `Code` text
+        <h2 style="color: #9340ff; margin-left: 900px; font-size: 60px">Practice Problems</h2>
+    <br><br>
+    <p style="font-size: 20px; color: white;margin-left: 900px; line-height: 40px;">
+We provide practice materials (quizzes, revision questions, <br>tips and tricks) in our notes as well as in Google Forms for you <br>to be able to test what you have learned!
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+</p>
+    <img src="practice-problems.png" width="370" height="360" style="margin-left: 300px; margin-top: -250px">
+</p>    <br><br><br><br><br><br><br><br><br><br><br>
+        <h2 style="color: #9340ff; margin-left: 200px; font-size: 60px">Welcome to the Team</h2>
+    <br><br>
+    <p style="font-size: 20px; color: white;margin-left: 200px; line-height: 40px;">Interested in becoming a part of our team? </p>
+<li>
+  <li style="font-size: 20px; color: white;margin-left: 200px; line-height: 40px;">Join as a contributor, where you will create quality subject-specific <br>notes as well as practice problems.</li><br><br>
+    <li style="font-size: 20px; color: white;margin-left: 200px; line-height: 40px;">Join as a manager, where you will become a part of our leadership <br> team and be in charge of the four different aspects of the organization: <br> Content, Growth & Development, Tech & Maintenance, and Community Support.</li>
+    </li>
+</ul>
+    <img src="ourteam.png" width="370" height="360" style="margin-left: 1100px; margin-top: -370px"><br><br><br>
+<a href="team.html"><button class="button-62" role="button" style="margin-left: 1200px; margin-top: 10px;"><strong>Volunteer</strong></button></a><br><br><br><br>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/knayak35/delphaeducation.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  </div>
 
-### Support or Contact
+  </div>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+</div>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+<center><h1>OUR TEAM</h1></center><br><br><br>
+<div class="hello" style="margin-left: 350px;">
+<div class="position" style="margin-left: 56px; margin-top: 30px;">
+  <p style="margin-left: 14px;">CHIEF EXEC OFFICER</p>
+</div>
+
+<div class="person"><br>
+<img src="https://raw.githubusercontent.com/knayak35/delphaeducation/main/kartik-nayak.png" width="200" height="200" style="margin-left: 49px;"><br><br>
+    <h2 style="margin-left: 70px;">KARTIK NAYAK</h2>
+</div></div>
+
+<div class="hello" style="margin-left: 900px; margin-top: -410px">
+<div class="position" style="margin-left: 56px; margin-top: 30px; background-image: linear-gradient(to right, #D1C6F3, #E9BCAC)">
+  <p style="margin-left: 30px;">STRATEGY LEAD</p>
+</div>
+
+<div class="person"><br>
+<img src="#" width="200" height="200" style="margin-left: 49px;"><br><br>
+    <h2 style="margin-left: 70px;">PRINCE SHAWN<br><span style="margin-left: -13px; color: black;">KENZIE KRISTANTO</h2></span>
+</div></div>
+<br><br><br>
+<div class="hello" style="margin-left: 80px;">
+<div class="position" style="margin-left: 60px; margin-top: 30px; background-image: linear-gradient(to right, blue , purple);">
+  <p style="margin-left: 34px;">CONTENT LEAD</p>
+</div>
+
+<div class="person"><br>
+<img src="#" width="200" height="200" style="margin-left: 75px;"><br><br>
+    <h2 style="margin-left: 20px;">CLEMENT ALLESANDRO<br><span class="name" style="margin-left: 45px; color: black;">KADARUSMAN</h2></span>
+</div></div>
+
+<div class="hello" style="margin-left: 430px; margin-top: -410px;">
+<div class="position" style="margin-left: 60px; margin-top: 30px; background-image: linear-gradient(to right, blue , purple);">
+  <p style="margin-left: 34px;">CONTENT LEAD</p>
+</div>
+
+<div class="person"><br>
+<img src="#" width="200" height="200" style="margin-left: 45px;"><br><br>
+    <h2 style="margin-left: 70px;">AILA CLEANTHA<br><span class="name" style="margin-left: -9px; color: black;">SYAHLA ARMAND</h2></span>
+</div></div>
+
+<div class="hello" style="margin-left: 780px; margin-top: -410px;">
+<div class="position" style="margin-left: 50px; margin-top: 30px; background-image: linear-gradient(to right, #40E0D0 , green);">
+  <p style="margin-left: 21px;">COMMUNITY LEAD</p>
+</div>
+
+<div class="person"><br>
+<img src="#" width="200" height="200" style="margin-left: 45px;"><br><br>
+    <h2 style="margin-left: 60px;">MARCO CARLTON<br><span class="name" style="margin-left: 40px; color: black;">CHANDRA</h2></span>
+</div></div>
+
+<div class="hello" style="margin-left: 1130px; margin-top: -410px;">
+<div class="position" style="margin-left: 50px; margin-top: 30px; background-image: linear-gradient(to right, #40E0D0 , green);">
+  <p style="margin-left: 21px;">COMMUNITY LEAD</p>
+</div>
+
+<div class="person"><br>
+<img src="#" width="200" height="200" style="margin-left: 45px;"><br><br>
+    <h2 style="margin-left: 60px;">ANSHITA SINGH</h2>
+</div></div>
+<br><br><br><br>
+<center>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq15EmpwhhpO-84UN_FtoVNoSIOGmI3_NVnjmul2iTdoWuwN0eR3ywQTy6gs7ktSKftz8&usqp=CAU" style="margin-left: 30px;">
+<img src="https://www.pincvision.com/assets/uploads/_1200x630_crop_center-center_82_none/UNSDG-logo.jpg?mtime=1619702418" style="margin-left: 10px;" width="240px" height="120px">
+<br><br><br><br></center>
+<center><hr><br><br><br><br>
+<p style="margin-left: 20px;">Thank you for visiting our site. We hope you were able to learn new concepts and skills.
+<br>
+Copyright Delpha Education 2022
+</p>
+</center>
+<style>
+hr{
+width: 1300px;
+}
+
+.person{
+border: 1px solid black;
+border-radius: 10px;
+width: 300px;
+height: 350px;
+}
+.position{
+background-image: linear-gradient(to right, red , orange);
+color: white;
+font-size: 18px;
+width: 200px;
+height: 30px;
+border-radius: 10px;
+
+
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 400px;
+}
+
+.container {
+  padding: 0 16px;
+  height: 150px;
+
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+</style>
+
+
+<br><br>
+
+
+
+</center>
+      </div>
+    </div>
+  </div>
+
+
+<style>
+
+#grad1 {
+  height: 40px;
+  width: 90px;
+  background-color: red;
+  background-image: linear-gradient(to right, red , orange);
+  border-radius: 20px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Inter:wght@300;400&family=Josefin+Sans&family=Mada&family=Merriweather:ital,wght@0,400;1,300&family=Open+Sans:wght@300&family=Outfit&family=Poppins&family=Prompt&family=Sintony&family=Source+Sans+Pro&family=Varela+Round&display=swap');
+*{
+font-family: Poppins, sans-serif;
+}
+
+.span{
+font-size: 20px;
+background: -webkit-linear-gradient(135deg, red, orange);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+</style>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Arimo&family=Inter:wght@300;400&family=Josefin+Sans&family=Mada&family=Merriweather:ital,wght@0,400;1,300&family=Open+Sans:wght@300&family=Outfit&family=Poppins&family=Prompt&family=Sintony&family=Source+Sans+Pro&family=Varela+Round&display=swap');
+
+ul {
+  list-style: none;
+}
+ul li:before {
+  content: '\2714\0020';
+}
+  *{
+  font-family: Poppins, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  }
+
+  .link{
+  margin-left: 1200px;
+  margin-top: -40px;
+  }
+
+  .header{
+  color: white;
+  font-size: 40px;
+
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
+
+  a:hover{
+  color: blue;
+  transition: 0.5s;
+  }
+
+  span{
+  color: purple;
+  }
+
+.button-62 {
+  background: linear-gradient(135deg, #9340ff, #ff3c5f);
+  border: 0;
+  border-radius: 20px;
+  width: 150px;
+  height: 50px;
+  color: #FFFFFF;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 2.5;
+  outline: transparent;
+  padding: 0 1rem;
+  text-align: center;
+  text-decoration: none;
+
+    &::before {
+    content: '';
+    position: absolute;
+    left: -2px;
+    top: -2px;
+    right: -2px;
+    bottom: -2px;
+    border-radius: 26px;
+    background-image: linear-gradient(90deg, #0065ff, #6942ef, #6554c0, #008cff, #0065ff, #6942ef);
+    background-size: 500%;
+    background-position: 0% 0%;
+  }
+}
+
+
+.welcome{
+
+  background-image: url('bg1.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.vl {
+  border-left: 6px solid white;
+  height: 600px;
+  margin-left: 900px;
+  margin-top: -500px;
+
+}
+
+
+
+</style>
