@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <title>Delpha Education</title>
+    <style>
+        /* Global styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Poppins', sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            color: #071E22;
+        }
+        
+        /* Navbar styles */
+        nav {
+            background-color: #071E22;
+            height: 150px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 20px;
+        }
+        
+        nav a {
+            color: #FFFFFF;
+            text-decoration: none;
+            font-size: 1.2rem;
+            font-weight: 500;
+            padding: 10px;
+            transition: all 0.2s ease;
+        }
+        
+        .navtext:hover {
+            background-color: #493fd1;
+            color: #FFFFFF;
+            border-radius: 5px;
+        }
+        
+        .logo {
+            font-size: 2rem;
+            font-weight: 600;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+        
+        /* Header styles */
+        header {
+            background-color: #F4C095;
+            padding: 100px;
+            text-align: center;
+            height: 600px;
+        }
+        
+        h1 {
+            margin: 0;
+            font-size: 3rem;
+            font-weight: 600;
+            color: #071E22;
+        }
+        
+        /* Main styles */
+        main {
+            background-color: #679289;
+            padding: 50px;
+        }
+        
+        h2 {
+            color: #FFFFFF;
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+        
+        p {
+            color: #FFFFFF;
+            font-size: 1.2rem;
+            max-width: 1000px;
+            margin-bottom: 30px;
+        }
+        
+        /* Card styles */
+        .card {
+            background-color: #FFFFFF;
+            padding: 30px;
+            border-radius: 5px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+            width: 300px;
+            height: 200px;
+        }
+        
+        .card h3 {
+            color: #071E22;
+            font-size: 1.8rem;
+            font-weight: 600;
+            margin-top: 0;
+            margin-bottom: 20px;
+        }
+        
+        .card p {
+            color: #071E22;
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+        }
+        
+        /* CTA styles */
+        .cta {
+            background-color: #EE2E31;
+            color: #FFFFFF;
+            padding: 10px 20px;
+            font-size: 1.2rem;
+            border-radius: 5px;
+            transition: all 0.2s ease;
+            text-decoration: none;
+            margin-top: 20px;
+    }
+    
+    .cta:hover {
+        background-color: #F66668;
+    }
+    
+    /* Footer styles */
+    footer {
+        background-color: #071E22;
+        color: #FFFFFF;
+        padding: 50px;
+        text-align: center;
+    }
+    
+    footer p {
+        margin: 0;
+        font-size: 1.2rem;
+    }
+    
+
+    .syllabus{
+        color: grey;
+        text-decoration: none;
+    }
+    .syllabus:hover{
+        color: black;
+        transition: 0.5s;
+
+    }
+    /* Media queries */
+    @media only screen and (max-width: 768px) {
+        header {
+            padding: 30px;
+        }
+        
+        main {
+            padding: 30px;
+        }
+        
+        .card {
+            padding: 20px;
+        }
+        
+        footer {
+            padding: 30px;
+        }
+    }
+</style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav>
+        <a href="index.html"><img src="logo.png" style="width: 240px; height: 150px;"/></a>
+    </nav>
+    <!-- Header -->
+<header style="text-align: justify; line-height: 1.5;"><center>
+    <h1>Welcome to Delpha Education</h1><br><br>
+    <p>Welcome to our company - your one-stop-shop for high-quality IGCSE notes across a range of subjects. Our comprehensive collection of notes is designed to help students prepare for their exams with confidence. Our team of experienced students and subject experts has crafted each note to cover the entire syllabus in a concise and easy-to-understand manner. We cover subjects like mathematics, biology, chemistry, physics, and many more. Our notes are perfect for students who want to excel in their exams and achieve their academic goals. Join us today and start your journey towards success!</p>
+    <br><br><a href="#" class="cta">Get Started</a>
+</center>
+</header>
+
+<!-- Main content -->
+<main>
+    <h2>Our Courses</h2>
+    <p>Choose from a wide range of courses in various fields, including:</p>
+    <div class="card"><center>
+        <h3 style="color: #FF5733">IGCSE Chemistry</h3>
+        <p>0620 | 2023-2025 | <a href="https://www.cambridgeinternational.org/Images/595428-2023-2025-syllabus.pdf" class="syllabus">Syllabus</a></p>
+        <br><a href="subjects/chemistry/chem-home.html" class="cta" style="background-color: #FF5733;">Enroll Now</a></center>
+    </div>
+    <div class="card" style="margin-left: 500px; margin-top: -290px;"><center>
+        <h3 style="color: #1E90FF">IGCSE Physics</h3>
+        <p>0625 | 2023-2025 | <a href="https://www.cambridgeinternational.org/Images/595430-2023-2025-syllabus.pdf" class="syllabus">Syllabus</a></p>
+        <br><a href="subjects/physics/phys-home.html" class="cta" style="background-color: #1E90FF;">Enroll Now</a></center>
+    </div>
+    <div class="card" style="margin-left: 1000px; margin-top: -290px;"><center>
+        <h3 style="color: #228B22">IGCSE Biology</h3>
+        <p>0610 | 2023-2025 | <a href="https://www.cambridgeinternational.org/Images/595426-2023-2025-syllabus.pdf" class="syllabus">Syllabus</a></p>
+        <br><a href="subjects/biology/bio-home.html" class="cta" style="background-color: #228B22;">Enroll Now</a></center>
+    </div>
+    <div class="card"><center>
+        <h3 style="color: #FF69B4">IGCSE Extended Math</h3>
+        <p>0580 | 2023-2024 | <a href="https://www.cambridgeinternational.org/Images/597037-2023-2024-syllabus.pdf" class="syllabus">Syllabus</a></p>
+        <br><a href="subjects/ext-math/extm-home.html" class="cta" style="background-color: #FF69B4;">Enroll Now</a></center>
+    </div>
+    <div class="card" style="margin-left: 500px; margin-top: -290px;"><center>
+        <h3 style="color: #b49a05">IGCSE Additional Math</h3>
+        <p>0606 | 2023-2024 | <a href="https://www.cambridgeinternational.org/Images/597045-2023-2024-syllabus.pdf" class="syllabus">Syllabus</a></p>
+        <br><a href="subjects/add-math/addm-home.html" class="cta" style="background-color: #b49a05;">Enroll Now</a></center>
+    </div>
+    <div class="card" style="margin-left: 1000px; margin-top: -290px;"><center>
+        <h3 style="color: #333333">IGCSE Computer Science</h3>
+        <p>0478 | 2023-2025 | <a href="https://www.cambridgeinternational.org/Images/595424-2023-2025-syllabus.pdf" class="syllabus">Syllabus</a></p>
+        <br><a href="subjects/cs/cs-home.html" class="cta" style="background-color: #333333;">Enroll Now</a></center>
+    </div>
+
+</main>
+
+<!-- Footer -->
+<footer><center>
+    <p>&copy; 2023 Delpha Education. All rights reserved.</p>
+</center>
+</footer>
+
+
